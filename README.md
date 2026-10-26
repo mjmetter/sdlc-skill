@@ -3,6 +3,8 @@
 Runs the full development workflow end-to-end — from a problem statement (or optional JIRA
 ticket) to a merged pull request — using model-optimised agents at each phase.
 
+> Extracted from internal work at Bloomreach and published with permission; history squashed for confidentiality.
+
 ## Invoke
 
 ```
